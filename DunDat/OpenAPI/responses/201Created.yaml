@@ -1,4 +1,0 @@
-description: Record created
-headers: 
-  Location:
-    $ref: '../headers/Location.yaml'
